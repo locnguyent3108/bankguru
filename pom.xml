@@ -27,12 +27,11 @@
             <version>7.1.0</version>
             <scope>test</scope>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/faker/faker -->
+        <!-- https://mvnrepository.com/artifact/com.github.javafaker/javafaker -->
         <dependency>
-            <groupId>faker</groupId>
-            <artifactId>faker</artifactId>
-            <version>0.3.2</version>
+            <groupId>com.github.javafaker</groupId>
+            <artifactId>javafaker</artifactId>
+            <version>0.2</version>
         </dependency>
-
     </dependencies>
 </project>
